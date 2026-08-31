@@ -1,0 +1,6 @@
+{
+  "name": "¿Cuánto cobra un abogado por una sucesión? Ley y Costos",
+  "description": "Descubrí con exactitud cuánto cobra un abogado por una sucesión en Argentina (CABA y PBA). Conocé las leyes, evitá regulaciones abusivas y ahorrá miles de dólares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
