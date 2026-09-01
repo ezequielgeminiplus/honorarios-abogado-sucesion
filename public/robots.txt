@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ezequielgeminiplus.github.io/honorarios-abogado-sucesion/sitemap.xml
